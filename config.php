@@ -5,7 +5,7 @@
 
 // Application Settings
 define('APP_NAME', 'PharmaCare');
-define('APP_URL', 'http://localhost/medecne store');
+define('APP_URL', 'http://localhost/Medicine-Store');
 
 // Database Settings
 define('DB_HOST', 'localhost');

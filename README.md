@@ -39,7 +39,7 @@ To get this project running locally on your machine (using XAMPP):
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/jalalakbar47/medecne-store.git
+   git clone https://github.com/jalalakbar47/Medicine-Store.git
    ```
 
 2. **Setup Database:**
@@ -53,7 +53,7 @@ To get this project running locally on your machine (using XAMPP):
 
 4. **Run the Project:**
    - Move the project folder to `C:\xampp\htdocs\`.
-   - Access the system via `http://localhost/medecne store`.
+   - Access the system via `http://localhost/Medicine-Store`.
 
 ## 🔐 Login Credentials
 
